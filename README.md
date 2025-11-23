@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;Fullstack+Developer;Frontend+Developer;Backend+Developer)
+
 
 <!--
 **david-gon/david-gon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
