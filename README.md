@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy David Gonzalez 👋👋�
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;Fullstack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG">
 </p>
