@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
 <h1>Hola, soy David Gonzalez 👋👋</h1>
 </p>
 <p align="center">
