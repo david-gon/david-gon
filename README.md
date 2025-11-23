@@ -1,6 +1,5 @@
-<p align="center">
-  <strong style="font-size: 64px;">Hola, soy David Gonzalez 👋👋</strong>
-</p>
+
+<h1 align="center">Hola, soy David Gonzalez 👋👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;Fullstack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG">
