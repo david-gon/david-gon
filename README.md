@@ -1,9 +1,9 @@
-<center><h1>Hola, soy David Gonzalez 👋👋</h1></center>
-
-
-  <center><img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;Fullstack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG"></center>
-
-<!--
+<p aling="center">
+<h1>Hola, soy David Gonzalez 👋👋</h1>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;Fullstack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG">
+</p><!--
 **david-gon/david-gon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
